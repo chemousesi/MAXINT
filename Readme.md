@@ -22,4 +22,4 @@ to run clients :\
 
 ```make clean``` to clean your folder from executable files
 
-by Chems-eddine BEANZIZA :)
+by Chems-eddine BENAZIZA :)
